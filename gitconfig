@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = monikazuscak@gmail.com
+	name = Monika Zuscak
